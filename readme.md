@@ -1,0 +1,1 @@
+python script for generating random strong password strings, with mixed characters, numbers and special symbols with adjustable length
